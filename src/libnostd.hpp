@@ -3,6 +3,6 @@
 
 #include <string>
 
-void println(const std::string str);
+void println(const std::string& str);
 
 #endif
